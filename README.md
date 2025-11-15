@@ -1,7 +1,8 @@
 # Disk Scheduling Algorithms Implementation
 
 **Autor:** Juan David Troncoso  
-**Fecha:** Noviembre 2025
+**Fecha:** Noviembre 2025  
+**Repositorio:** [github.com/SiriusTVT/Assigment-lll](https://github.com/SiriusTVT/Assigment-lll)
 
 ---
 
