@@ -452,22 +452,6 @@ for algorithm, (total_movement, positions) in results.items():
 
 ---
 
-## 🤝 Contribuciones
-
-Si deseas mejorar este proyecto, puedes:
-- Agregar más algoritmos (SSTF, LOOK, C-LOOK)
-- Mejorar las visualizaciones
-- Optimizar el código
-- Agregar más parámetros configurables
-
----
-
-## 📄 Licencia
-
-Este proyecto es de código abierto y está disponible para uso educativo.
-
----
-
 ## 📞 Preguntas Frecuentes (FAQ)
 
 **P: ¿Qué diferencia hay entre SCAN y C-SCAN?**
