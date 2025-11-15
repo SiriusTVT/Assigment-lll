@@ -1,5 +1,10 @@
 # Disk Scheduling Algorithms Implementation
 
+**Autor:** Juan David Troncoso  
+**Fecha:** Noviembre 2025
+
+---
+
 ## 📋 Descripción del Proyecto
 
 Este proyecto implementa tres algoritmos de planificación de disco (disk scheduling) en Python:
