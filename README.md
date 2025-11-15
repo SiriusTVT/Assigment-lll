@@ -72,6 +72,10 @@ Total: 58 cilindros × 6 ms = 348 ms
 
 **Resultado:** SCAN es el más eficiente con 348 ms, seguido de SSTF (360 ms) y FCFS (876 ms).
 
+#### 📸 Solución Visual - Pregunta 1
+
+![Cálculo Seek Time - Pregunta 1](Fotos/1.jpeg)
+
 ---
 
 ### Pregunta 2: Distancia Total en Cilindros
@@ -147,6 +151,12 @@ Total: 9,917 cilindros
 ```
 
 **Resultado:** SCAN es el más eficiente con 7,492 cilindros, seguido de C-SCAN (9,917) y FCFS (13,011).
+
+#### 📸 Soluciones Visuales - Pregunta 2
+
+![Cálculo FCFS - Pregunta 2](Fotos/2.jpeg)
+
+![Cálculo SCAN y C-SCAN - Pregunta 2](Fotos/3.jpeg)
 
 ---
 
