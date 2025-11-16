@@ -477,6 +477,3 @@ R: Los resultados variarán ligeramente, pero las tendencias se mantienen. SCAN 
 ## ✅ Conclusión
 
 Este proyecto implementa exitosamente los tres algoritmos de planificación de disco más importantes y proporciona herramientas visuales para comparar su rendimiento. Es una excelente base para entender cómo los sistemas operativos optimizan el acceso al disco.
-
-**Generado**: Noviembre 2025
-**Versión**: 1.0
